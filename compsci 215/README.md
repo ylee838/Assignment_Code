@@ -1,6 +1,6 @@
-===================
-Key   : Sz/*dÒ‹ co,€ÌÑÚIÉœ‹ Úa¶Ñ †
--------------------
+
+Key   : Sz/*dÃ’â€¹ co,â‚¬ÃŒÃ‘ÃšIÃ‰Å“â€¹ ÃšaÂ¶Ã‘ â€ 
+
 3  : Please do not feed wolves.
 0  : Several canons got stolen.
 3  : Peace treaty went missing.
@@ -8,11 +8,6 @@ Key   : Sz/*dÒ‹ co,€ÌÑÚIÉœ‹ Úa¶Ñ †
 1f : Lies can not be tolerated.
 7  : The box was shipped today.
 1d : New toys do not last long.
-===================
-
-
-
-
 
 
 Used to crack the one time pad that was used 7 times
